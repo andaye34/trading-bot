@@ -36,4 +36,4 @@ find ~/trading-bot -type f -name "*.pyc" -delete
 echo "\nDisk usage after cleanup:"
 df -h /
 
-echo "\n✅ Cleanup complete! You may want to run 'npm install' again later if needed."
+
